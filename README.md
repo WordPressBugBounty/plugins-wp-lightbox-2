@@ -1,0 +1,1 @@
+# plugins-wp-lightbox-2
